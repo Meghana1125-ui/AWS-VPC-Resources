@@ -124,56 +124,71 @@ AWS Cloud
 17. Deleted Resources After Testing
 
 ---
-
 # 📸 Screenshots
 
 ## 1. Region Selected
+
 ![Region Selected](screenshots/01-region-selected.png)
 
 ## 2. VPC Created
+
 ![VPC Created](screenshots/02-vpc-created.png)
 
 ## 3. Public Subnet Created
+
 ![Public Subnet Created](screenshots/03-public-subnet-created.png)
 
 ## 4. Private Subnet Created
+
 ![Private Subnet Created](screenshots/04-private-subnet-created.png)
 
 ## 5. Internet Gateway Created
+
 ![Internet Gateway Created](screenshots/05-internet-gateway-created.png)
 
 ## 6. Internet Gateway Attached to VPC
+
 ![IGW Attached](screenshots/06-igw-attached-to-vpc.png)
 
 ## 7. Route Table Created
+
 ![Route Table Created](screenshots/07-route-table-created.png)
 
 ## 8. Route Added
+
 ![Route Added](screenshots/08-route-added.png)
 
 ## 9. Subnet Association
+
 ![Subnet Association](screenshots/09-subnet-association.png)
 
 ## 10. Security Group Created
+
 ![Security Group Created](screenshots/10-security-group-created.png)
 
 ## 11. Network ACL Created
+
 ![Network ACL Created](screenshots/11-network-acl-created.png)
 
 ## 12. Public EC2 Instance Created
+
 ![Public EC2](screenshots/12-public-ec2-created.png)
 
 ## 13. Private EC2 Instance Created
+
 ![Private EC2](screenshots/13-private-ec2-created.png)
 
-## 14. VPC Resource Map
-![VPC Resource Map](screenshots/14-vpc-resource-map.png)
+## 14. VPC Workflow
 
-## 15. Network Connections
-![Network Connections](screenshots/15-network-connections.png)
+![VPC Workflow](screenshots/14-vpc-workflow.png)
 
-## 16. VPC Workflow
-![VPC Workflow](screenshots/16-vpc-workflow.png)
+## 15. VPC Resource Map
+
+![VPC Resource Map](screenshots/15-vpc-resource-map.png)
+
+## 16. Network Connections
+
+![Network Connections](screenshots/16-network-connections.png)
 
 ---
 
